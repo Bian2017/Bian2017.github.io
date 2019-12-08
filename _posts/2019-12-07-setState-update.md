@@ -3,6 +3,8 @@ layout: post
 title: '浅谈 setState 更新机制'
 author: 'ShiMu'
 header-style: text
+header-img: 'img/computer-keyboard-laptop-screen-109371.jpg'
+header-mask: 0.4
 tags:
   - React
   - setState
