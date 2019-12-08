@@ -10,8 +10,6 @@ tags:
   - setState
 ---
 
-## 浅谈 setState 更新机制
-
 了解 React 同学想必对`setState`函数是再熟悉不过了，`setState`也会经常作为面试题，考察前端求职者对 React 的熟悉程度。
 
 在此我也抛一个问题，阅读文章前读者可以先想一下这个问题的答案。
