@@ -3,7 +3,7 @@ layout: post
 title: '浅谈 setState 更新机制'
 author: 'ShiMu'
 header-style: text
-header-img: 'img/computer-keyboard-laptop-screen-109371.jpg'
+header-img: 'img/post-bg-computer-keyboard-laptop-screen.jpg'
 header-mask: 0.4
 tags:
   - React
