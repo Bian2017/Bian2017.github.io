@@ -3,6 +3,8 @@ layout: post
 title: 'React 性能优化 —— 浅谈 PureComponent 组件 与 memo 组件'
 author: 'ShiMu'
 header-style: text
+header-img: 'img/post-bg-progammer.jpg'
+header-mask: 0.4
 tags:
   - 性能优化
   - React
