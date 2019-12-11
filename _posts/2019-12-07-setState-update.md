@@ -8,6 +8,7 @@ header-mask: 0.4
 tags:
   - React
   - setState
+  - 源码解读
 ---
 
 了解 React 同学想必对`setState`函数是再熟悉不过了，`setState`也会经常作为面试题，考察前端求职者对 React 的熟悉程度。
