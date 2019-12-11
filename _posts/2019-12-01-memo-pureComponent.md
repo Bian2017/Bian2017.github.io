@@ -4,8 +4,10 @@ title: 'React 性能优化 —— 浅谈 PureComponent 组件 与 memo 组件'
 author: 'ShiMu'
 header-style: text
 tags:
+  - 性能优化
   - React
-  - setState
+  - PureComponent
+  - memo
 ---
 
 在谈性能优化之前，先抛出一个问题：
