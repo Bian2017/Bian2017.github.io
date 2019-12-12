@@ -2,6 +2,26 @@
 
 > 本项目 fork 于[黄玄大佬](https://github.com/Huxpro/huxpro.github.io)的个人博客。
 
+## 一、环境配置
+
+### 1.1 安装依赖
+
+> yarn
+
+### 1.2 安装 Jekyll
+
+Jekyll 安装指南参考如下链接：[Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/)。
+
+安装完毕，如报如下错误：
+
+```
+Dependency Error: Yikes! It looks like you don't have jekyll-paginate or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. If you've run Jekyll with `bundle exec`, ensure that you have included the jekyll-paginate gem in your Gemfile as well. The full error message from Ruby is: 'cannot load such file -- jekyll-paginate' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/!
+```
+
+则再安装下`jekyll-paginate`即可。
+
+> gem install jekyll-paginate
+
 ## 二、博客功能
 
 ### 2.1 Google Analytics(谷歌分析统计)
